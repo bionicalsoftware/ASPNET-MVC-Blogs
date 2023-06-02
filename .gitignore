@@ -397,3 +397,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 /AspNetMvcBlog/AspNetMvcBlog.sln
+HTMLPage1
